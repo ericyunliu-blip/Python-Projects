@@ -16,5 +16,6 @@ by renatofillinich, but hope to add value by:
 
 ## Files
 * AB Testing Experiment with Guardrail.ipynb - Jupyter notebook
-* ab_data.csv - csv file, originally obtained from renatofillinich
-* ab_data_rev.csv - csv file, modified by me with pseudo-randomly generated revenue figures
+* Inputs\ab_data.csv - csv file, originally obtained from renatofillinich
+* Inputs\ab_data_rev.csv - csv file, modified by me with pseudo-randomly generated revenue figures
+
