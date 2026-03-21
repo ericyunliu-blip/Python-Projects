@@ -13,6 +13,7 @@ by renatofillinich, but hope to add value by:
 ## Prerequisites
 * Visual Studio Code with Python 3.13+
 * Working knowledge of statistics already, as I do not go deep on statistical theory.
+* The three files below downloaded, with the two csv's saved in your working directory in VSCode
 
 ## Files
 * AB Testing Experiment with Guardrail.ipynb - Jupyter notebook
